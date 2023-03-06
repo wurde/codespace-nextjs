@@ -9,7 +9,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          I've made changes on an iPad!
+          I&apos;ve made changes on an iPad!
           <br />
           Here is a motivational quote by GitHub Copilot:
           &quot;The best way to predict the future is to invent it.&quot;
