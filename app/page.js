@@ -10,9 +10,9 @@ export default function Home() {
       <div className={styles.description}>
         <p>
           I've made changes on an iPad!
-
+          <br />
           Here is a motivational quote by GitHub Copilot:
-          "The best way to predict the future is to invent it."
+          &quot;The best way to predict the future is to invent it.&quot;
         </p>
         <div>
           <a
